@@ -1,0 +1,6 @@
+$ ssh-keygen -t rsa -C "wangzlcse@zju.edu.cn"
+
+git status
+git add *
+git commit -m 'wzl05282022'
+git push -u origin master
