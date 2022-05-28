@@ -23,8 +23,8 @@ __1)Place fcn_mask_transformer_head.py and transformer.py under ../mmdetection/m
 2)Place TESN_COCO.py under ../mmdetection<br>
 3)add 'from .fcn_mask_transformer_head import FCNMaskTransformerHead' into ../mmdetection/mmdet/models/roi_heads/mask_heads/__init__.py__<br>
 ## Train
-__Run 'python tools/train.py TESN_COCO.py'__
+__Run 'python tools/train.py TESN.py'__
 ## Test
-__Run 'python tools/test.py TESN_COCO.py'__
+__Run 'python tools/test.py TESN.py'__
 ## Acknowledgement
 __With greatly appreciation for [open-mmlab](https://github.com/open-mmlab) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
