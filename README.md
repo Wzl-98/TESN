@@ -9,7 +9,7 @@ b) TESN Introduce Transformer into the mask head to provide high-quality segment
 __The framework of the mask head. (a) mask head of original Mask R-CNN. (b) mask head of TESN. (c) convolution and up-sampling. (d) Transformer layer.__<br>
 <br>
 <br>
-__Results on MS COCO dataset:__<br>
+__Results on MS COCO dataset :__<br>
 ![Results](https://github.com/Wzl-98/TESN/raw/main/Fig/Results.png)<br>
 ## Prepared to train
 ### Environment
