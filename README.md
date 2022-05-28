@@ -27,4 +27,4 @@ __Run 'python tools/train.py TESN_COCO.py'__
 ## Test
 __Run 'python tools/test.py TESN_COCO.py'__
 ## Acknowledgement
-__With greatly appreciation for [open-mmlab](https://github.com/open-mmlab/mmdetection) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
+__With greatly appreciation for [open-mmlab](https://github.com/open-mmlab) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
