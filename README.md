@@ -28,7 +28,7 @@ __Run 'python tools/train.py TESN.py'__
 __Run 'python tools/test.py TESN.py'__
 ## Acknowledgement
 __With greatly appreciation for [open-mmlab](https://github.com/open-mmlab) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
-## Acknowledgement
+## Citation
 __If you find the code helpful in your resarch or work, please cite the following paper：__
 ~~~
 @article{WANG2022117673,
