@@ -28,3 +28,14 @@ __Run 'python tools/train.py TESN.py'__
 __Run 'python tools/test.py TESN.py'__
 ## Acknowledgement
 __With greatly appreciation for [open-mmlab](https://github.com/open-mmlab) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
+## Acknowledgement
+__If you find the code helpful in your resarch or work, please cite the following paper：__
+~~~
+@article{WANG2022117673,
+author = {Zelin Wang and Li Fan and Yuxiang Lu and Jikai Mao and Lvtao Huang and Jianguang Zhou},
+title = {TESN: Transformers Enhanced Segmentation Network for Accurate Nanoparticle Size Measurement of TEM Images},
+journal = {Powder Technology},
+year = {2022},
+issn = {0032-5910}
+}
+~~~
