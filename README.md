@@ -29,7 +29,7 @@ __Run 'python tools/test.py TESN.py'__
 ## Acknowledgement
 __With greatly appreciation for [open-mmlab](https://github.com/open-mmlab) for providing [mmdetection](https://github.com/open-mmlab/mmdetection) source code.__
 ## Citation
-__If you find the code helpful in your resarch or work, please cite the following [paper](https://www.sciencedirect.com/sdfe/arp/cite?pii=S0032591022005678&format=text%2Fx-bibtex&withabstract=true)：__
+__If you find the code helpful in your resarch or work, please cite the following [paper](https://doi.org/10.1016/j.powtec.2022.117673)：__
 ~~~
 @article{WANG2022117673,
 title = {TESN: Transformers enhanced segmentation network for accurate nanoparticle size measurement of TEM images},
